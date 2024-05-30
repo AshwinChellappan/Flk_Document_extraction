@@ -1,0 +1,13 @@
+openai==0.27.0
+azure-search-documents==11.4.0b3
+azure-ai-formrecognizer==3.2.1
+azure-storage-blob==12.14.1
+azure-core
+azure-ai-translation-document
+azure-search-documents==11.4.0b3
+azure-ai-formrecognizer==3.2.1
+altair<5
+streamlit~=1.12.0
+PyPDF2
+python-dotenv
+tiktoken
